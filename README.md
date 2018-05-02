@@ -1,1 +1,1 @@
-# GrupChat Moack up Social Media
+# GrupChat: Mock up Social Media
